@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.venv/
+.venv/
+env/
+venv/
+*.sqlite3
+*.db
+*.log
+*.pot
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Data files
+*.arff
+*.csv
+*.json
+*.h5
+*.pkl
+
+# Node/Vite
+node_modules/
+dist/
+.vite/
+
+# System
+*.tmp
+*.bak
+*.swp
+
+# IDE
+*.idea/
+
+# Build
+build/
